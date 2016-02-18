@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "발견하는 즐거움: 과학적으로 생각한다는 것"
-date: 2012-04-19 00:00:00
 categories: book
 noindex: true
 ---

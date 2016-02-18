@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "허위 리뷰를 찾는 기술의 발전"
-date: 2012-04-19 00:00:00
-categories: book
+categories: research
 noindex: true
 ---
 

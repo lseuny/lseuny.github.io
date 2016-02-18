@@ -36,6 +36,6 @@ t1 ~ tn은 각 쿼리가 들어온 타임스탬프이고, 그 아래의 q는 그
 
 마지막이다. 5번에서는 k의 값을 지정했었는데, 그러면 최근 k개 데이터는 똑같은 가중치로 반영되고, k+1번째 데이터부터는 그냥 버려진다. 이보다 조금 더 부드럽게(smooth) 셀 수는 없을까? 물론, 가능하다. 아래 그림에서 직사각형의 Sliding Window 대신 곡선 함수를 이용해서 오래된 데이터의 가중치는 낮추면 된다. 계산 효율이 좋을 뿐 아니라 최근 데이터가 없는 지나치게 낡은 데이터를 걸러내기도 용이하다는 게 장점이다.
 
-![exponentially-decaying-window](https://www.dropbox.com/s/1q8nplmhdgnxcbg/exponentially_decaying_window.png?dl=0)
+![exponentially-decaying-window](/assets/exponentially_decaying_window.png)
 
 이상, Mining of Massive Datasets 4장에서 해결하려고 하는 문제들을 정리해봤다. 구체적인 내용은 책을 읽어보자.

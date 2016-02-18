@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "스포츠 기사를 작성하는 알고리즘"
-date: 2014-03-30 00:00:00
 categories: research
 noindex: true
 ---

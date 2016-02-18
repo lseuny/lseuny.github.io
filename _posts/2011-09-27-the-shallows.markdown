@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "생각하지 않는 사람들: 인터넷이 뇌에 미치는 영향"
-date: 2011-09-27 00:00:00
 categories: book
 noindex: true
 ---
