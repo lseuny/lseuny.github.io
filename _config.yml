@@ -1,10 +1,11 @@
 # Site settings
 title: "알아가는 즐거움"
 email: lseuny@gmail.com
-description: ""
+description: "Learning to think"
 baseurl: ""
 url: "http://lseuny.github.io"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
+permalink: article/:year/:month/:title
