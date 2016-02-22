@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advising Students for Success"
-categories: book
+categories: thought
 noindex: true
 ---
 
