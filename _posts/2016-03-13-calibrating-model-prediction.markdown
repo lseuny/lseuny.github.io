@@ -31,7 +31,7 @@ Platt’s Scaling과 Isotonic Regression을 비교하기 위해 극단적이고 
 
 파란선이 Platt’s Scaling 즉 Logistic Regression이고, 빨간선이 Isotonic Regression이다. 파란선이 직선처럼 보이지만 x축의 범위를 좀더 넓혀보면 시그모이드 형태를 확인할 수 있다.
 
-위 예제와 관련된 구체적인 코드는 https://github.com/lseuny/sandbox/blob/master/calibrating_model_prediction.ipynb 에서 볼 수 있다.
+위 예제와 관련된 구체적인 코드는 [https://github.com/lseuny/sandbox/blob/master/calibrating_model_prediction.ipynb](https://github.com/lseuny/sandbox/blob/master/calibrating_model_prediction.ipynb)에서 볼 수 있다.
 
 ### 참고자료
 
