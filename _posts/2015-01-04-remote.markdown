@@ -5,7 +5,7 @@ categories: book
 noindex: true
 ---
 
-이 책을 읽으면서 그동안 원격 근무 관련해서 어떤 것은 과소평가하고 어떤 것은 과대평가하고 있었다는 생각이 든다.
+<img style="float: left; margin: 10px;" src="/assets/book_cover/9788996511267.jpg" width="120px">이 책을 읽으면서 그동안 원격 근무 관련해서 어떤 것은 과소평가하고 어떤 것은 과대평가하고 있었다는 생각이 든다.
 
 ### 비언어적인 소통
 
