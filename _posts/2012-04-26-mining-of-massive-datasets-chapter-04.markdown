@@ -5,7 +5,7 @@ categories: book
 noindex: true
 ---
 
-[Anand Rajaraman](http://twitter.com/#!/anand_raj)과 스탠포드 대학교의 [Jeff Ullman 교수](http://infolab.stanford.edu/~ullman/) (맞다, [Advising students for success](http://www.4four.us/article/2009/03/advising-students-for-success-2)를 쓴 그 Ullman 교수다)가 공저한 Mining of Massive Datasets 책을 사려고 하면 7만 원이 넘지만 PDF 파일은 [여기](http://infolab.stanford.edu/~ullman/mmds.html)에서 무료로 다운받을 수 있다. 이 책 4장의 제목은 Mining Data Streams이다. 밀물처럼 쓸려오는 거대한 데이터의 흐름을 효율적으로 처리하는 기법들을 소개하고 있다. 이 글에서는 대충 어떤 문제들을 해결하려고 하는지만 정리해보자. 바탕에 깔린 전략은 해쉬(Hash) 함수를 이용해서 근삿값을 찾겠다는(Approximate) 것이다. 스트림 데이터의 예로 검색엔진에 유입되는 쿼리를 생각해보자.
+[Anand Rajaraman](http://twitter.com/#!/anand_raj)과 스탠포드 대학교의 [Jeff Ullman 교수](http://infolab.stanford.edu/~ullman/) (맞다, [Advising students for success](http://www.4four.us/article/2009/03/advising-students-for-success-2)를 쓴 그 Ullman 교수다)가 공저한 Mining of Massive Datasets 책을 사려고 하면 7만 원이 넘지만 PDF 파일은 [여기](http://infolab.stanford.edu/~ullman/mmds.html)에서 무료로 다운받을 수 있다. 이 책 4장의 제목은 Mining Data Streams이다. 밀물처럼 쓸려오는 거대한 데이터의 흐름을 효율적으로 처리하는 기법들을 소개하고 있다. 이 글에서는 대충 어떤 문제들을 해결하려고 하는지만 정리해보자. 바탕에 깔린 전략은 해쉬(Hash) 함수를 이용해서 근삿값을 찾겠다는(Approximate) 것이다. 스트림 데이터의 예로 검색엔진에 유입되는 쿼리를 생각해보자.<!--more-->
 
     t1  t2  t3  t4  t5  t6  t7  ...  tn
     q1  q2  q1  q3  q2  q2  q3  ...  qn

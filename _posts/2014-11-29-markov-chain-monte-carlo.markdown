@@ -7,7 +7,7 @@ noindex: true
 
 MCMC(Markov Chain Monte Carlo)는 어떤 목표 확률분포(Target Probability Distribution)로부터 랜덤 샘플을 얻는 방법이다. 샘플링에 뭐 이런 거창한 방법이 필요하냐고 할 수도 있는데, 데이터의 차원이 커지면 샘플링이 간단한 문제가 아니게 된다. [LDA 파라미터 추정](http://www.4four.us/article/2014/10/lda-parameter-estimation)의 경우, 각 단어 주제의 사후확률분포 P(Z \| W)에는 문서에 등장하는 단어 토큰수 만큼의 차원이 있는 것이다. 10만, 100만, 그 이상이 될 수도 있다.
 
-어려운 부분은 빼고 MCMC의 원리만 간단히 살펴보자. 일단 이름에 들어간 용어에서부터 시작한다.
+어려운 부분은 빼고 MCMC의 원리만 간단히 살펴보자. 일단 이름에 들어간 용어에서부터 시작한다.<!--more-->
 
 ### 몬테카를로
 

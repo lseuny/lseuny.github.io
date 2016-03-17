@@ -9,7 +9,7 @@ noindex: true
 
 > [Computer science is no more about computers than astronomy is about telescopes.](http://en.wikiquote.org/wiki/Computer_science#Disputed)
 
-Computer Science를 컴퓨터 과학이라고 옮겨야 할지 전산학이라고 해야 할지 모르겠지만, 아무튼 이 학문이 컴퓨터라는 기계 자체에 대한 것이라는 생각은 오해라는 얘기다. 비교하자면 천문학이 망원경에 대한 학문이 아닌 것과 마찬가지라는 것. 물론 현대적인 컴퓨터의 동작 원리를 이해하고, 더 빠르고 강력한 머신을 만드는 일도 중요하지만 그게 전부는 아니다. 또, 소프트웨어 개발을 빼놓고 얘기할 수 없지만 그렇다고 프로그래밍이 곧 컴퓨터 사이언스인 것은 아니다. 그럼 대체 뭔가?
+Computer Science를 컴퓨터 과학이라고 옮겨야 할지 전산학이라고 해야 할지 모르겠지만, 아무튼 이 학문이 컴퓨터라는 기계 자체에 대한 것이라는 생각은 오해라는 얘기다. 비교하자면 천문학이 망원경에 대한 학문이 아닌 것과 마찬가지라는 것. 물론 현대적인 컴퓨터의 동작 원리를 이해하고, 더 빠르고 강력한 머신을 만드는 일도 중요하지만 그게 전부는 아니다. 또, 소프트웨어 개발을 빼놓고 얘기할 수 없지만 그렇다고 프로그래밍이 곧 컴퓨터 사이언스인 것은 아니다. 그럼 대체 뭔가?<!--more-->
 
 이럴 때는 엄밀한 정의보다 실제로 컴퓨터 사이언스를 하는 사람들이 어떤 문제와 씨름하고 어떤 식으로 해결해왔는지를 살펴보면 도움이 된다. 『미래를 바꾼 아홉 가지 알고리즘: 컴퓨터 세상을 만든 기발한 아이디어들』 (원제 Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers) 책에 나오는 예를 하나 살펴보자.
 

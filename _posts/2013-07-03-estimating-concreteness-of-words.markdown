@@ -7,7 +7,7 @@ noindex: true
 
 어떤 글이 이해하기 쉬울까? 다양한 요소가 있겠으나, 일반적으로 추상적인 내용보다는 손에 잡힐 듯 구체적인 글이 더 잘 이해되는 것 같다. 그럼 어떤 문서가 얼마나 구체적인지를 측정할 수는 없을까?
 
-올해 WSDM 컨퍼런스에 일본 연구자들이 발표한 [Estimating content concreteness for finding comprehensible documents](http://dl.acm.org/citation.cfm?id=2433396.2433455)라는 논문을 보면, 일단 가능성은 열려 있는 것 같다. 이들은 단어 단위로 다양한 특성을 분석해서 그 단어의 구체적인 정도(Concreteness)를 계산한 뒤, 이를 바탕으로 그 단어가 포함된 문서의 구체성을 측정했다.
+올해 WSDM 컨퍼런스에 일본 연구자들이 발표한 [Estimating content concreteness for finding comprehensible documents](http://dl.acm.org/citation.cfm?id=2433396.2433455)라는 논문을 보면, 일단 가능성은 열려 있는 것 같다. 이들은 단어 단위로 다양한 특성을 분석해서 그 단어의 구체적인 정도(Concreteness)를 계산한 뒤, 이를 바탕으로 그 단어가 포함된 문서의 구체성을 측정했다.<!--more-->
 
 단어가 구체적인지 추상적인지는 어떻게 알 수 있을까? 여태껏 그래왔듯이, 이번에도 상관관계를 이용한다. 구체적인 단어는 어떤 (측정 가능한) 특성을 가질지, 또 추상적인 단어는 어떨지 직관을 이용해서 가설을 수립하고, 그렇게 측정한 요소값을 정답셋에 갈아넣고 머신러닝 방망이를 휘두르면 결과가 나온다.
 

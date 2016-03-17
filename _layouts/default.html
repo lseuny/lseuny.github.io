@@ -1,19 +1,22 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
   {% include head.html %}
 
-    <body>
+  <body>
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
+    <section class="main-content">
+      <div class="wrapper">
+        {{ content }}
       </div>
-    </div>
+    </section>
 
     {% include footer.html %}
 
-    </body>
+  </body>
+
+  {% include scripts.html %}
+
 </html>

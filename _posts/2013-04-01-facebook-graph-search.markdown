@@ -5,7 +5,7 @@ categories: research
 noindex: true
 ---
 
-최근 검색 분야의 화두를 꼽으라면 역시 [페이스북 그래프 검색](https://www.facebook.com/about/graphsearch)을 빼놓을 수 없다. 지인의 SNS에서 [그래프 검색의 내부를 살짝 엿볼 수 있는 글](http://www.facebook.com/note.php?note_id=10151361720763920)을 접했다. 흥미로운 부분만 몇 가지 적어본다.
+최근 검색 분야의 화두를 꼽으라면 역시 [페이스북 그래프 검색](https://www.facebook.com/about/graphsearch)을 빼놓을 수 없다. 지인의 SNS에서 [그래프 검색의 내부를 살짝 엿볼 수 있는 글](http://www.facebook.com/note.php?note_id=10151361720763920)을 접했다. 흥미로운 부분만 몇 가지 적어본다.<!--more-->
 
 ### Query Suggestion
 

@@ -5,7 +5,7 @@ categories: book
 noindex: true
 ---
 
-인터넷의 부정적인 면을 다룬 책 두 번째는 [니콜라스 카(Nicholas Carr)](http://roughtype.com)의 『생각하지 않는 사람들(원제 The Shallows: What the Internet Is Doing to Our Brains)』이다. [『생각 조종자들』](http://www.4four.us/article/2011/09/filter-bubble)이 인터넷에서 벌어지는 사용자 프로파일링과 개인화의 부작용을 다루었다면, 『생각하지 않는 사람들』은 상호작용성과 하이퍼링크 같은 인터넷(정확히 말하면 월드와이드웹) 고유의 특징이 인간 두뇌에 어떤 영향을 끼치는지 다양한 실증 연구를 통해 보여준다. 멀티가 아닌 본진에 드랍쉽을 떨군 셈이다. 그 드랍쉽을 움직이는 힘은 뇌의 가소성(Plasticity)이라는 연료에서 나온다.
+인터넷의 부정적인 면을 다룬 책 두 번째는 [니콜라스 카(Nicholas Carr)](http://roughtype.com)의 『생각하지 않는 사람들(원제 The Shallows: What the Internet Is Doing to Our Brains)』이다. [『생각 조종자들』](http://www.4four.us/article/2011/09/filter-bubble)이 인터넷에서 벌어지는 사용자 프로파일링과 개인화의 부작용을 다루었다면, 『생각하지 않는 사람들』은 상호작용성과 하이퍼링크 같은 인터넷(정확히 말하면 월드와이드웹) 고유의 특징이 인간 두뇌에 어떤 영향을 끼치는지 다양한 실증 연구를 통해 보여준다. 멀티가 아닌 본진에 드랍쉽을 떨군 셈이다. 그 드랍쉽을 움직이는 힘은 뇌의 가소성(Plasticity)이라는 연료에서 나온다.<!--more-->
 
 ### 뇌의 가소성
 

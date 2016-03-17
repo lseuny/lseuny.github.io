@@ -5,7 +5,7 @@ categories: research
 noindex: true
 ---
 
-[2012년 SIGIR 학회에 참석](http://www.4four.us/article/2013/03/sigir-2012-review)했을 때 [얀덱스](http://www.yandex.ru) 연구자의 발표를 처음 들었다. 얀덱스는 러시아의 검색엔진인데, 찾아보니 여기서도 흥미로운 연구를 많이 발표했다.
+[2012년 SIGIR 학회에 참석](http://www.4four.us/article/2013/03/sigir-2012-review)했을 때 [얀덱스](http://www.yandex.ru) 연구자의 발표를 처음 들었다. 얀덱스는 러시아의 검색엔진인데, 찾아보니 여기서도 흥미로운 연구를 많이 발표했다.<!--more-->
 
 ### [Recency Ranking by Diversification of Result Set](http://dl.acm.org/citation.cfm?id=2063862)
 
