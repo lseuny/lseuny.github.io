@@ -3,7 +3,7 @@ title: "알아가는 즐거움"
 email: lseuny@gmail.com
 description: "Learning to think"
 baseurl: ""
-url: "" #  "http://lseuny.github.io"
+url: "http://lseuny.github.io"
 
 # Build settings
 markdown: kramdown
