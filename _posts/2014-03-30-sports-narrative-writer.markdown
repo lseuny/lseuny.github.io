@@ -7,6 +7,8 @@ noindex: true
 
 최근에 관심이 가는 분야는 (스포츠) 기사를 자동으로 작성하는 기술이다. 몇 년 전 그런 스타트업이 나왔다는 얘기를 들었는데, [소프트웨어 로봇이 기자를 대체한다](http://jackay21c.blogspot.kr/2014/03/blog-post_11.html)를 보니 일부 도메인에서는 이미 상용화 단계에 들어선 모양이다. 컴퓨터 알고리즘으로 기사를 쓰다니, 어떻게 하는 걸까?
 
+![StatsMonkey](/assets/post_image/2014-03-30-sports-narrative-writer.jpg)
+
 위 링크에서 언급된 [내러티브 사이언스(Narrative Science)](http://narrativescience.com)의 홈페이지를 보면, 노스웨스턴 대학교의 연구 프로젝트인 [StatsMonkey](http://infolab.northwestern.edu/projects/stats-monkey)가 전신이라는 것을 알 수 있다. 프로젝트의 결과물을 보고 거기에 참여했던 학생과 지도교수가 창업한 것이다. 핵심 기술은 회사의 영업 비밀이니 당연히 비공개지만 2010년 AAAI 컨퍼런스의 심포지엄에 발표된 [StatsMonkey: A Data-Drived Sports Narrative Writer](http://www.aaai.org/ocs/index.php/FSS/FSS10/paper/view/2305)를 보면 개략적인 방법론을 추측할 수 있다.<!--more-->
 
 진짜 사람이 쓴 것같은 기사를 만들려면 이벤트를 단순히 나열하는 걸로는 부족하다. 그 경기에서 중요했던 이벤트/선수를 찾아서 강조해야 하고, 이들을 부드럽게 연결해서 스토리를 만들어야 한다. 그 결과는 매끄러운 문장으로 제공되어야 한다.
